@@ -101,7 +101,7 @@ for n in range ( 2 , 10 ):
 ==> 8 equals 2 * 4
 ==> 9 equals 3 * 3
                      ```</pre></li>
-                     <li>**pass** заявление ничего не делает<pre>```
+                     <li><b>pass</b> заявление ничего не делает<pre>```
 while True :
     pass  # Busy-wait for keyboard interrupt (Ctrl+C)
                      ```</pre></li>
